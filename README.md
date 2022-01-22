@@ -1,6 +1,6 @@
 # Atıfcan Ergin
 
-_Software Engineer | Distributed Systems | Java | Kotlin | Groovy | Python 3.x | Father of 🐶x2 & 🐈x2 based in Istanbul, TR_ <br>
+_Software Engineer - Distributed Systems , Java , Kotlin , Groovy , Python 3.x , Father of 🐶x2 🐈x2 based in Istanbul, TR_ <br>
 
 [Email](mailto:atifcanergin@gmail.com) / [Website]() / [LinkedIn](https://www.linkedin.com/in/atifcanergin/) / [GitHub](https://github.com/ozthemagician/) / [Twitter](https://twitter.com/codicelautus/) / [DEV]()
 
