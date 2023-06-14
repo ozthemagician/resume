@@ -9,7 +9,15 @@ Animal Welfare, Gender Neutrality, Environment, Civil Rights and Social Activism
 
 ## 👩🏼‍💻 Technical Experience
 
-**Senior Software Engineer Contract** @ [Dogus Technology](https://www.linkedin.com/company/dogus-teknoloji/) _(Jun 2020 - Present)_ <br>
+**Senior Software Engineer Contract** @ [Mox Bank](https://mox.com) _(Jan 2023 - Present)_ <br>
+Developing on event-driven microservices, cloud-native backend systems for a digital bank in Hong Kong:
+  - Working as a Senior Developer on an agile running team.
+  - Implementing new features using Spring Boot, Kotlin.
+  - Code reviewing.
+  - **_Technologies used:_** Spring-boot, Kotlin, OpenAPI, GraphQL, Spring Security, Spring Cloud, Docker, Kubernetes, AWS, Apache Kafka
+<br><br>
+
+**Senior Software Engineer Contract** @ [Dogus Technology](https://www.linkedin.com/company/dogus-teknoloji/) _(Jun 2020 - Jan 2023)_ <br>
 Architecting and developing event-driven, cloud-native backend systems for a mobile fintech & loyalty application:
   - Leading and mentoring a 12 member agile team to deliver the highest quality product.
   - Re-architecting legacy systems and implementing the new business requirements.
