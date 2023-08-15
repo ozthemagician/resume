@@ -9,7 +9,7 @@ Animal Welfare, Gender Neutrality, Environment, Civil Rights and Social Activism
 
 ## 👩🏼‍💻 Technical Experience
 
-**Senior Software Engineer Contract** @ [Mox Bank](https://mox.com) _(Jan 2023 - Present)_ <br>
+**Senior Software Engineer Contract** @ [Mox Bank](https://mox.com) _(Jan 2023 - July 2023)_ <br>
 Developing on event-driven microservices, cloud-native backend systems for a digital bank in Hong Kong:
   - Working as a Senior Developer on an agile running team.
   - Implementing new features using Spring Boot, Kotlin.
