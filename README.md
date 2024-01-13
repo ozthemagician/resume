@@ -9,6 +9,16 @@ Animal Welfare, Gender Neutrality, Environment, Civil Rights and Social Activism
 
 ## 👩🏼‍💻 Technical Experience
 
+**Senior Software Engineer Contract** @ [Fashion Digital](https://www.digital-meets-fashion.de/en/) _(Aug 2023 - )_ <br>
+  - Working as a Senior Engineer on an agile running team.
+  - Modernizing legacy systems to cloud native services.
+  - System design.
+  - Programming.
+  - Code reviewing.
+  - Mentoring.
+  - **_Technologies used:_** Kotlin, Kotlin Coroutines, Ktor, Docker, Kubernetes, GCP, Apache Kafka.
+<br><br>
+
 **Senior Software Engineer Contract** @ [Mox Bank](https://mox.com) _(Jan 2023 - July 2023)_ <br>
 Developing on event-driven microservices, cloud-native backend systems for a digital bank in Hong Kong:
   - Working as a Senior Developer on an agile running team.
