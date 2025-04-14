@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
-title: 💻🐶🐈🏕️🥾
-description: Atıfcan Ergin's CV
+title: Atıfcan Ergin | Senior Software Engineer
+description: Distributed Systems, Java, Kotlin, Groovy, Python 3.x
+logo: /assets/img/profile.png
+show_downloads: false
+google_analytics:
