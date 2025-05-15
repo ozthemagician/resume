@@ -1,106 +1,110 @@
-# Atıfcan Ergin
+# ATIFCAN ERGIN
+Istanbul, Turkey | atifcanergin@gmail.com | LinkedIn: https://www.linkedin.com/in/atifcanergin/ | GitHub: https://github.com/ozthemagician/
 
-_Software Engineer - Distributed Systems , Java , Kotlin , Groovy , Python 3.x , Father of 🐶x2 🐈x2 based in Istanbul, TR_ <br>
+## SUMMARY
+Senior Software Engineer with extensive experience in distributed systems, microservices, and cloud-native architecture. Specialized in JVM languages (Java, Kotlin, Groovy) with expertise in Python. Proven track record in leading engineering teams, implementing event-driven architectures, and modernizing legacy systems. Skilled in containerization (Docker, Kubernetes) and cloud platforms (AWS, GCP).
 
-[Email](mailto:atifcanergin@gmail.com) / [Website]() / [LinkedIn](https://www.linkedin.com/in/atifcanergin/) / [GitHub](https://github.com/ozthemagician/) / [Twitter](https://twitter.com/codicelautus/) / [DEV]()
+## TECHNICAL SKILLS
+- **Languages**: Kotlin, Java, Groovy, Python, SQL, PL/SQL
+- **Frameworks**: Spring Boot, Spring Cloud, Kotlin Coroutines, Ktor, Spring Reactor, GraphQL
+- **Cloud & Infrastructure**: Docker, Kubernetes, GCP, AWS, OpenShift
+- **Messaging & Event-Driven**: Apache Kafka, RabbitMQ, Spring Cloud Stream
+- **Database**: Oracle, MongoDB, Google BigTable, PostgreSQL, Relational Database Systems
+- **Security**: Spring Security, OAuth2
+- **Other**: Agile Methodologies (Scrum, Kanban), TDD, CI/CD, Microservices, REST APIs, Reactive APIs, Stream Processing
 
-## I Care about...
-Animal Welfare, Gender Neutrality, Environment, Civil Rights and Social Activism
+## PROFESSIONAL EXPERIENCE
 
-## 👩🏼‍💻 Technical Experience
+### Senior Software Engineer
+**Fashion Digital (Peek & Cloppenburg)** | Contract | Aug 2023 - Present
+- Develop distributed search microservices using Kotlin and modern cloud-native technologies
+- Implement high-performance service-to-service communication systems through gRPC
+- Optimize search functionality through integration with external search providers
+- Build scalable data processing systems with Kafka streams
+- Enhance resilient, maintainable systems powering e-commerce search experiences across multiple international markets
+- Implement sophisticated features including faceted search, multi-tenant support, and product indexing
+- Lead modernization efforts to transform legacy systems into cloud-native services
+- Provide mentorship and code reviews to maintain engineering excellence
+- **Technologies**: Kotlin, Kotlin Coroutines, gRPC, Ktor, Docker, Kubernetes, GCP(GKE, Pub/Sub, BigQuery, BigTable), Apache Kafka, Distributed Search Systems
 
-**Senior Software Engineer Contract** @ [Fashion Digital](https://www.digital-meets-fashion.de/en/) _(Aug 2023 - )_ <br>
-  - Working as a Senior Engineer on an agile running team.
-  - Modernizing legacy systems to cloud native services.
-  - System design.
-  - Programming.
-  - Code reviewing.
-  - Mentoring.
-  - **_Technologies used:_** Kotlin, Kotlin Coroutines, Ktor, Docker, Kubernetes, GCP, Apache Kafka.
-<br><br>
+### Senior Software Engineer
+**Mox Bank** | Contract | Jan 2023 - July 2023
+- Developed event-driven microservices for a digital bank in Hong Kong
+- Implemented new features using Spring Boot and Kotlin
+- Collaborated in agile teams to deliver high-quality financial services
+- Contributed to code reviews and maintaining system quality
+- **Technologies**: Spring Boot, Kotlin, OpenAPI, GraphQL, Spring Security, Spring Cloud, Docker, Kubernetes, AWS, Apache Kafka, Apache Airflow
 
-**Senior Software Engineer Contract** @ [Mox Bank](https://mox.com) _(Jan 2023 - July 2023)_ <br>
-Developing on event-driven microservices, cloud-native backend systems for a digital bank in Hong Kong:
-  - Working as a Senior Developer on an agile running team.
-  - Implementing new features using Spring Boot, Kotlin.
-  - Code reviewing.
-  - **_Technologies used:_** Spring-boot, Kotlin, OpenAPI, GraphQL, Spring Security, Spring Cloud, Docker, Kubernetes, AWS, Apache Kafka
-<br><br>
+### Senior Software Engineer
+**Dogus Technology** | Contract | Jun 2020 - Jan 2023
+- Architected and developed event-driven, cloud-native backend systems for a mobile fintech & loyalty application
+- Led and mentored a 12-member agile team to deliver high-quality products
+- Re-architected legacy systems and implemented new business requirements
+- Mentored 3 additional teams to align with modern software architecture standards
+- Fostered an engineering culture promoting autonomy, proactivity, and continuous improvement
+- **Technologies**: Spring Boot, Kotlin (Coroutines), Spring Reactor, Reactive APIs, GraphQL, Spring Security, Spring Cloud, Docker, Kubernetes, GCP, Apache Kafka
 
-**Senior Software Engineer Contract** @ [Dogus Technology](https://www.linkedin.com/company/dogus-teknoloji/) _(Jun 2020 - Jan 2023)_ <br>
-Architecting and developing event-driven, cloud-native backend systems for a mobile fintech & loyalty application:
-  - Leading and mentoring a 12 member agile team to deliver the highest quality product.
-  - Re-architecting legacy systems and implementing the new business requirements.
-  - Code reviewing.
-  - Mentoring all other 3 teams to align with modern software architecture standards.
-  - Implementing an engineering culture and teamwork which is autonomous, proactive, continuously learning and improving itself.
-  - **_Technologies used:_** Spring-boot, Kotlin(Coroutines) , Spring Reactor, Reactive API's, GraphQL, Spring Security, Spring Cloud, Docker, Kubernetes, GCP, Apache Kafka
-<br><br>
+### Senior Software Engineer
+**Dogus Technology** | Contract | Apr 2019 - Jul 2019
+- Led development of a cloud-native application using agile practices and TDD
+- Implemented solutions using Google Cloud Platform and Kubernetes
+- **Technologies**: Spring Boot, Java 11, Docker, Kubernetes, GCP, Spring Cloud
 
-**Senior Software Engineer Contract** @ [Dogus Technology](https://www.linkedin.com/company/dogus-teknoloji/) _(Apr 2019 - Jul 2019)_  <br>
-Developed and lead an undisclosed cloud native application. It's been developed by agile practices and TDD. Technologies are Google Cloud Platform (GKE, CloudFunctions, PubSub), Spring Boot, Java 11, Kubernetes, JUnit, Mockito etc.
-  - **_Technologies used:_** Spring Boot, Java 11, Docker, Kubernetes, GCP, Spring Cloud
-<br><br>
+### Senior Software Engineer
+**Dogus Technology** | Contract | Mar 2018 - Dec 2018
+- Designed and implemented event-driven microservices and APIs
+- Re-architected legacy .NET services into an event-driven Java platform
+- **Technologies**: Spring Boot, Java 11, Docker, Kubernetes, OpenShift, Spring Cloud, RabbitMQ
 
-**Senior Software Engineer Contract** @ [Dogus Technology](https://www.linkedin.com/company/dogus-teknoloji/) _(Mar 2018 - Dec 2018)_  <br>
-Design and implement event driven microservices and API's using java.
-  - Rearchitecting and refactoring the legacy services that are built in .NET ecosystem into an Event driven java platform.
-  - **_Technologies used:_** Spring Boot, Java 11, Docker, Kubernetes, Openshift, Spring Cloud, RabbitMQ
-<br><br>
+### Lead Software Developer / Architect
+**Bilyoner** | Nov 2016 - Jan 2018
+- Architected and implemented microservice architecture using Spring Cloud on Kubernetes
+- Led an 8-member agile team in re-engineering legacy monolith backend
+- Applied strangler pattern to migrate from monolith to microservices
+- **Technologies**: Spring Boot, Java 8, Docker, Kubernetes, OpenShift, Spring Cloud
 
-**Lead Software Developer / Architect** @ [Bilyoner](https://www.linkedin.com/company/bilyoner/) _(Nov 2016 - Jan 2018)_ <br>
-Architecting and implementing microservice architecture using Spring Cloud(Netflix) on Kubernetes platform (Openshift).
-  - Leading an 8 member agile team.
-  - Re-engineering the legacy monolith(Java) backend.
-  - Re-architecting the legacy system to microservices using strangler pattern.
-  - **_Technologies used:_** Spring Boot, Java 8, Docker, Kubernetes, Openshift, Spring Cloud
-    <br><br>
+### Senior Software Engineer
+**Innova** | Nov 2014 - Nov 2015
+- Developed backend services based on Spring Framework, JPA, and RDBMS
+- **Technologies**: Spring Framework, REST, Jasper Reports
 
-**Senior Software Engineer** @ [Innova](https://www.linkedin.com/company/innova/) _(Nov 2014 - Nov 2015)_ <br>
-Developed various backend services based on Spring Framework+JPA+RDBMS.
-  - **_Technologies used:_** Spring Framework, REST, Jasper Reports.
-  <br><br>
+### Senior Java Developer
+**Anadolu Sigorta** | Dec 2013 - Oct 2014
+- Worked on Alternative Distribution Channels and Customer Relationship Management
+- Integrated CRM software with insurance base through web services
+- **Technologies**: JSF, RichFaces, Hibernate, EJB, Oracle 11g
 
-**Senior Java Developer** @ [Anadolu Sigorta](https://www.linkedin.com/company/anadolusigorta/) _(Dec 2013 - Oct 2014)_ <br>
-Worked as a Senior developer at Alternative Distribution Channels and Customer Relationship Management division. Integrating CRM software with insurance base through web services. JSF, RichFaces, Hibernate, EJB, Oracle 11g are the main technologies that I use.
-  <br><br>
-  
-**Java Developer** @ [Aksigorta](https://www.linkedin.com/company/aksigorta/) _(Nov 2012 - Dec 2013)_ <br>
-Worked as a Senior developer at Bancassurance business integration projects developing scheduled backoffice jobs and batch processes. 
-  - Responsible for developing presentation, service and data layers. 
-  - Attended meetings with PM, business, system organisation and test teams to contribute on development process. 
-  - Provided support for bug fixing and testing processes.
-  - **_Technologies used:_** Seam Framework, IceFaces, Hibernate, Spring IOC, Spring AOP, Oracle 11g
-  <br><br>
-  
-**Java Developer** @ [Metaform](https://www.linkedin.com/company/metaform-bilisim-ltd/) _(Jul 2010 - Sep 2012)_ <br>
-I worked in this organization as a Java Developer. I took the task of developing the design given to me and ensured that the final products matched the quality standards. I also took the task of writing complex programs or modules. Spring MVC and Hibernate are the two framework I made use of in depth to carry out the development process. I attended team meeting conducted by project lead and project manager at regular intervals. I also involved in production support for maintaining the system developed and resolved the complexities and bugs raised by customers efficiently and effectively on time.
+### Java Developer
+**Aksigorta** | Nov 2012 - Dec 2013
+- Developed scheduled backoffice jobs and batch processes for Bancassurance business integration
+- Implemented presentation, service, and data layers
+- **Technologies**: Seam Framework, IceFaces, Hibernate, Spring IOC, Spring AOP, Oracle 11g
 
-  - Developing web applications using java, spring and hibernate. 
-  - Developing mobile applications using jquery mobile, spring, java.
-  - Geospatial web implementations w/ Google Maps API.
-  - Implementing web services.
-  <br><br>
+### Java Developer
+**Metaform** | Jul 2010 - Sep 2012
+- Developed web applications using Java, Spring, and Hibernate
+- Created mobile applications using jQuery mobile, Spring, and Java
+- Implemented geospatial web solutions with Google Maps API
+- **Technologies**: Spring MVC, Hibernate, Web Services
 
-## 📌 Side Projects (Under Construction)
+## EDUCATION
 
+**Bachelor of Science in Computer Engineering**
+Meždunarodnij Kazahsko-Tureckij Universitet im. H.A. Yesevi, Turkey | 2011 - 2015
 
-## 💬 Languages
+**Bachelor of Science in Economics**
+Baskent University, Turkey | 2000 - 2006
 
-**Turkish**: Native <br>
-**English**: IELTS 6.5 <br>
-<br><br>
+**Information Technologies Certificate Program**
+METU Continuous Education Center, Ankara, Turkey | 2009
 
-## 👩🏼‍🎓 Education
+**Cisco Network Academy - CCNA Exploration Program**
+METU Continuous Education Center, Ankara, Turkey | 2010
 
-**Information Technologies Certificate Program** focused on essential courses of CS degree<br>
-[METU Continuous Educ. Center](https://idea.metu.edu.tr/?lang=en) - Ankara, TR _(2009)_ <br>
+## LANGUAGES
+- Turkish: Native
+- English: IELTS 6.5
 
-**Cisco Network Academy - CCNA Exploration Program** CCNA prep course<br>
-[METU Continuous Educ. Center](https://sem.metu.edu.tr/) - Ankara, TR _(2010)_ <br>
+## VALUES
+Passionate about animal welfare, gender neutrality, environmental sustainability, civil rights, and social activism.
 
-**Bachelor of Science** in Computer Engineering<br>
-[Meždunarodnij Kazahsko-Tureckij Universitet im. H.A. Yesevi](https://www.ayu.edu.tr) - TR _(2011 - 2015)_
-
-**Bachelor of Science** in Economics<br>
-[Baskent University](https://www.baskent.edu.tr) - TR _(2000 - 2006)_
